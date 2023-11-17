@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
